@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on TechByJoe</title>
+    <link>http://192.168.86.34:1313/posts/</link>
+    <description>Recent content in Posts on TechByJoe</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.86.34:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running paint on an Arduino Mega 2560</title>
+      <link>http://192.168.86.34:1313/posts/arduino-paint/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.86.34:1313/posts/arduino-paint/</guid>
+      <description>&lt;h2 id=&#34;the-idea&#34;&gt;The idea&lt;/h2&gt;
+&lt;p&gt;So at night, I always get random ideas, and last night, I thought of running an app on an arduino. You see, arduinos, while amazing at running LED strip lights behind your bed, they aren&amp;rsquo;t nearly as powerful as any modern computer. But what if we tried anyway? My idea was to have a python script running on my computer that sends my mouse movement to the arduino, and the arduino would then send an image back.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://192.168.86.34:1313/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.86.34:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my Blog&lt;/h2&gt;
+&lt;p&gt;This is my first post on &lt;strong&gt;TechByJoe&lt;/strong&gt;. I&amp;rsquo;ll be posting about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C# and Python projects&lt;/li&gt;
+&lt;li&gt;Arduino hardware hacks&lt;/li&gt;
+&lt;li&gt;PC building tips&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;c-logic-test&#34;&gt;C# Logic Test&lt;/h3&gt;
+&lt;p&gt;Here is a quick snippet of C# to check the syntax colors:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-csharp&#34; data-lang=&#34;csharp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;using&lt;/span&gt; System;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;TechByJoe&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; Main() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;string&lt;/span&gt; status = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Building...&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        Console.WriteLine(&lt;span style=&#34;color:#e6db74&#34;&gt;$&amp;#34;Status: {status}&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;So what do you think?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

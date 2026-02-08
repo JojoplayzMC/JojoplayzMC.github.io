@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arduino on TechByJoe</title>
+    <link>http://192.168.86.34:1313/tags/arduino/</link>
+    <description>Recent content in Arduino on TechByJoe</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.86.34:1313/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running paint on an Arduino Mega 2560</title>
+      <link>http://192.168.86.34:1313/posts/arduino-paint/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.86.34:1313/posts/arduino-paint/</guid>
+      <description>&lt;h2 id=&#34;the-idea&#34;&gt;The idea&lt;/h2&gt;
+&lt;p&gt;So at night, I always get random ideas, and last night, I thought of running an app on an arduino. You see, arduinos, while amazing at running LED strip lights behind your bed, they aren&amp;rsquo;t nearly as powerful as any modern computer. But what if we tried anyway? My idea was to have a python script running on my computer that sends my mouse movement to the arduino, and the arduino would then send an image back.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

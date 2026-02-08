@@ -1,0 +1,45 @@
+baseURL = 'https://techbyjoe.github.io/'
+languageCode = 'en-us'
+title = 'TechByJoe'
+theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    title = 'TechByJoe'
+    description = 'Programming, Arduino, and Hardware'
+    defaultTheme = 'dark'
+    showCodeCopyButtons = true
+
+    [params.profileMode]
+        enabled = true
+        title = "TechByJoe"
+        subtitle = "Building with Code, Silicon, and Solder. 🛠️"
+        imageUrl = "images/pfp.jpg"
+        imageWidth = 150
+        imageHeight = 150
+        imageTitle = "Joe"
+        
+        [[params.profileMode.buttons]]
+            name = "Read the Blog"
+            url = "/posts"
+
+        [[params.profileMode.buttons]]
+            name = "My GitHub"
+            url = "https://github.com/JojoplayzMC"
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/JojoplayzMC"
+
+# This creates the navigation bar at the top right
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20

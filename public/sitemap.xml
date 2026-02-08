@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://192.168.86.34:1313/tags/arduino/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/tags/c&#43;&#43;/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/categories/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/posts/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/categories/projects/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/posts/arduino-paint/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/tags/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://192.168.86.34:1313/posts/hello-world/</loc>
+  </url>
+</urlset>
